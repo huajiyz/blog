@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Baoyh&#39;s Blog</title>
+  
+  <subtitle>一只蒟蒻的博客</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://www.baoyh.cf/"/>
+  <updated>2020-04-07T11:18:22.447Z</updated>
+  <id>https://www.baoyh.cf/</id>
+  
+  <author>
+    <name>Baoyh</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>【洛谷P2704】【NOI2001】虾兵蟹将 解题报告</title>
+    <link href="https://www.baoyh.cf/posts/51727.html"/>
+    <id>https://www.baoyh.cf/posts/51727.html</id>
+    <published>2020-04-07T10:25:02.000Z</published>
+    <updated>2020-04-07T11:18:22.447Z</updated>
+    
+    <summary type="html">
+    
+      【洛谷P2704】一道状压模板题，运用了一定的技巧。
+    
+    </summary>
+    
+    
+      <category term="解题报告" scheme="https://www.baoyh.cf/categories/%E8%A7%A3%E9%A2%98%E6%8A%A5%E5%91%8A/"/>
+    
+    
+      <category term="状态压缩" scheme="https://www.baoyh.cf/tags/%E7%8A%B6%E6%80%81%E5%8E%8B%E7%BC%A9/"/>
+    
+      <category term="DP" scheme="https://www.baoyh.cf/tags/DP/"/>
+    
+      <category term="状压DP" scheme="https://www.baoyh.cf/tags/%E7%8A%B6%E5%8E%8BDP/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>博客恢复更新</title>
+    <link href="https://www.baoyh.cf/posts/16107.html"/>
+    <id>https://www.baoyh.cf/posts/16107.html</id>
+    <published>2020-04-05T07:00:00.000Z</published>
+    <updated>2020-04-07T11:23:22.313Z</updated>
+    
+    <summary type="html">
+    
+      Welcome! 博客域名已更换至 `baoyh.cf`！原 `baoyh.ml` 不保证可用！请大家收藏新网址！
+    
+    </summary>
+    
+    
+      <category term="通知" scheme="https://www.baoyh.cf/categories/%E9%80%9A%E7%9F%A5/"/>
+    
+    
+      <category term="博客" scheme="https://www.baoyh.cf/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
+  
+</feed>
