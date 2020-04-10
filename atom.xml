@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.baoyh.cf/"/>
-  <updated>2020-04-08T10:15:13.135Z</updated>
+  <updated>2020-04-10T09:52:52.309Z</updated>
   <id>https://www.baoyh.cf/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>【洛谷P1352】没有上司的舞会 解题报告</title>
+    <link href="https://www.baoyh.cf/posts/Luogu-P1352/"/>
+    <id>https://www.baoyh.cf/posts/Luogu-P1352/</id>
+    <published>2020-04-10T09:00:29.000Z</published>
+    <updated>2020-04-10T09:52:52.309Z</updated>
+    
+    <summary type="html">
+    
+      【洛谷P1352】一道树形DP入门题。
+    
+    </summary>
+    
+    
+      <category term="解题报告" scheme="https://www.baoyh.cf/categories/%E8%A7%A3%E9%A2%98%E6%8A%A5%E5%91%8A/"/>
+    
+    
+      <category term="树形DP" scheme="https://www.baoyh.cf/tags/%E6%A0%91%E5%BD%A2DP/"/>
+    
+  </entry>
   
   <entry>
     <title>【洛谷P2704】【NOI2001】炮兵阵地 解题报告</title>
@@ -33,9 +54,9 @@
       <category term="解题报告" scheme="https://www.baoyh.cf/categories/%E8%A7%A3%E9%A2%98%E6%8A%A5%E5%91%8A/"/>
     
     
-      <category term="DP" scheme="https://www.baoyh.cf/tags/DP/"/>
-    
       <category term="状态压缩" scheme="https://www.baoyh.cf/tags/%E7%8A%B6%E6%80%81%E5%8E%8B%E7%BC%A9/"/>
+    
+      <category term="DP" scheme="https://www.baoyh.cf/tags/DP/"/>
     
       <category term="状压DP" scheme="https://www.baoyh.cf/tags/%E7%8A%B6%E5%8E%8BDP/"/>
     
