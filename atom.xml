@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.baoyh.cf/"/>
-  <updated>2020-04-10T09:52:52.309Z</updated>
+  <updated>2020-04-14T11:44:24.439Z</updated>
   <id>https://www.baoyh.cf/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>【LOJ10155】数字转换 解题报告</title>
+    <link href="https://www.baoyh.cf/posts/LOJ-10155/"/>
+    <id>https://www.baoyh.cf/posts/LOJ-10155/</id>
+    <published>2020-04-14T08:28:16.000Z</published>
+    <updated>2020-04-14T11:44:24.439Z</updated>
+    
+    <summary type="html">
+    
+      【LOJ10155】数字转换——一道有意思的树形DP。
+    
+    </summary>
+    
+    
+      <category term="解题报告" scheme="https://www.baoyh.cf/categories/%E8%A7%A3%E9%A2%98%E6%8A%A5%E5%91%8A/"/>
+    
+    
+      <category term="找规律" scheme="https://www.baoyh.cf/tags/%E6%89%BE%E8%A7%84%E5%BE%8B/"/>
+    
+      <category term="树形DP" scheme="https://www.baoyh.cf/tags/%E6%A0%91%E5%BD%A2DP/"/>
+    
+      <category term="模型转换" scheme="https://www.baoyh.cf/tags/%E6%A8%A1%E5%9E%8B%E8%BD%AC%E6%8D%A2/"/>
+    
+  </entry>
   
   <entry>
     <title>【洛谷P1352】没有上司的舞会 解题报告</title>
@@ -54,9 +79,9 @@
       <category term="解题报告" scheme="https://www.baoyh.cf/categories/%E8%A7%A3%E9%A2%98%E6%8A%A5%E5%91%8A/"/>
     
     
-      <category term="状态压缩" scheme="https://www.baoyh.cf/tags/%E7%8A%B6%E6%80%81%E5%8E%8B%E7%BC%A9/"/>
-    
       <category term="DP" scheme="https://www.baoyh.cf/tags/DP/"/>
+    
+      <category term="状态压缩" scheme="https://www.baoyh.cf/tags/%E7%8A%B6%E6%80%81%E5%8E%8B%E7%BC%A9/"/>
     
       <category term="状压DP" scheme="https://www.baoyh.cf/tags/%E7%8A%B6%E5%8E%8BDP/"/>
     
@@ -194,9 +219,9 @@
       <category term="解题报告" scheme="https://www.baoyh.cf/categories/%E8%A7%A3%E9%A2%98%E6%8A%A5%E5%91%8A/"/>
     
     
-      <category term="数论" scheme="https://www.baoyh.cf/tags/%E6%95%B0%E8%AE%BA/"/>
-    
       <category term="找规律" scheme="https://www.baoyh.cf/tags/%E6%89%BE%E8%A7%84%E5%BE%8B/"/>
+    
+      <category term="数论" scheme="https://www.baoyh.cf/tags/%E6%95%B0%E8%AE%BA/"/>
     
       <category term="进制转换" scheme="https://www.baoyh.cf/tags/%E8%BF%9B%E5%88%B6%E8%BD%AC%E6%8D%A2/"/>
     
